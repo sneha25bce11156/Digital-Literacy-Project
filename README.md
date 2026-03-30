@@ -3,11 +3,14 @@
 # Student Details
 
 Name: Sneha Sarkar
+
 Registration Number: 25BCE11156
+
 Branch: B.Tech CSE Core
+
 Year: First Year
+
 Course Code: CSE0001
-Course Title: Digital Literacy
 
 # Project Overview
 
